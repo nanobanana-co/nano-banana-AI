@@ -6,7 +6,7 @@ Recently, Google officially rolled out NanoBanana — now live on both Gemini an
 
 You can try it out on all three of these sites:
 
-[LM Arena](https://nanobanana.co/)
+[LM Arena](https://lmarena.ai/)
 
 [Gemini](https://gemini.google.com/)
 
