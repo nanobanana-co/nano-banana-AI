@@ -8,7 +8,7 @@ I uploaded a photo of Michael Jackson and another person, told the AI to make a 
 It’s not just for two-person shots— even when you put four objects together in one pic, the consistency is still super good.
 Let it fix old photos – it boosts clarity and removes spots, but won’t mess with any details.<img width="2510" height="2160" alt="微信图片_2025-09-03_210449_947" src="https://github.com/user-attachments/assets/33cf82dd-6c90-44c8-bfdc-b7f6f3e4a335" />
 
-**"[Nano Banana](https://www.youtube.com/@aitoolreview918) is currently one of the strongest models when it comes to character consistency—even outperforming GPT, Flux Kontext, and others. It was first spotted on LM Arena, a crowdsourced AI benchmark platform built by UC Berkeley in 2023.
+**"Nano Banana is currently one of the strongest models when it comes to character consistency—even outperforming GPT, Flux Kontext, and others. It was first spotted on LM Arena, a crowdsourced AI benchmark platform built by UC Berkeley in 2023.
 
 Crowdsourced basically means giving tasks to a bunch of people online, letting everyone vote, and then the platform tallies the results to adjust model rankings over time.
 
