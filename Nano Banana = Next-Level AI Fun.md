@@ -3,35 +3,43 @@ Here’s a punchy, casual English version suitable for TikTok or YouTube:  "Goog
 
 Key features
 
-The character feels totally natural![微信图片_2025-09-02_204213_515](https://github.com/user-attachments/assets/ae934e4f-ec85-4859-96fa-bb61a478911b)
-![微信图片_2025-09-02_204226_130](https://github.com/user-attachments/assets/7351fa38-f9ab-43bd-99c5-0206e270dcad)
+The character feels totally natural
+![微信图片_2025-09-19_152817_129](https://github.com/user-attachments/assets/d68404f8-40ac-4d30-9957-5014414d62d5)
+![微信图片_2025-09-19_152900_847](https://github.com/user-attachments/assets/269b4997-a519-489a-8c10-5b3b3c183bd2)
 
 Catch every little facial twitch
-![微信图片_2025-09-02_204230_495](https://github.com/user-attachments/assets/0c7b830a-1b76-456a-8857-0f4f587c9055)
+![微信图片_2025-09-19_152905_233](https://github.com/user-attachments/assets/e86f665c-5eb7-4553-8ffd-623b5b30973a)
 
 Make a flow of action scenes and turn it into one short clip
-![微信图片_2025-09-02_204233_946](https://github.com/user-attachments/assets/82787f2b-a818-4ba7-b195-736dc908cea9)
+![微信图片_2025-09-19_152909_272](https://github.com/user-attachments/assets/850fcd86-fd7b-4882-a057-bfe84dc1c583)
 
 You can even delete it easily, and it won’t look out of place at all.
-![微信图片_2025-09-02_204237_642](https://github.com/user-attachments/assets/f958fdd3-7c10-4294-a784-be18b1925225)
+![微信图片_2025-09-19_152912_353](https://github.com/user-attachments/assets/703ba72d-c24d-4796-a3ae-9af67a9bc8eb)
 
 You could also add more elements
-![微信图片_2025-09-02_204241_218](https://github.com/user-attachments/assets/9a6c2195-be79-46e6-8cb1-c1c954a4106a)
+![微信图片_2025-09-19_152915_921](https://github.com/user-attachments/assets/1abac89a-cfd2-4d1d-ad58-dadc01491266)
 
-Even multiple reference images can blend perfectly![微信图片_2025-09-02_204246_754](https://github.com/user-attachments/assets/d5ab6ffc-3101-48c3-9555-17c4886a15ca)
-<img width="1024" height="1024" alt="微信图片_2025-09-02_204251_451" src="https://github.com/user-attachments/assets/d4b6eac9-ceaa-4cd3-adce-fafbc424fca7" />
+Even multiple reference images can blend perfectly
+![微信图片_2025-09-19_152920_441](https://github.com/user-attachments/assets/12b5cfa5-31a2-455d-bd61-c2bee916ac78)
+<img width="1024" height="1024" alt="微信图片_2025-09-19_152924_241" src="https://github.com/user-attachments/assets/756ef18a-e934-484b-bd2b-98e89f8a6546" />
 
-Easily put together comic panels![微信图片_2025-09-02_204255_839](https://github.com/user-attachments/assets/c12c1787-b5ae-46f3-91af-a53ca9a3085e)
+Easily put together comic panels
 
-Switch up your style however you like![微信图片_2025-09-02_204259_867](https://github.com/user-attachments/assets/2d4c3bf3-5712-4583-bf16-72f45ac19032)
+![微信图片_2025-09-19_152928_256](https://github.com/user-attachments/assets/283a28e8-46b5-44c0-a309-a5c776706d15)
 
-Anime comes to life![微信图片_2025-09-02_204303_089](https://github.com/user-attachments/assets/afc02fda-a282-49c1-bc44-27df98e9fa6f)
+Switch up your style however you like
+![微信图片_2025-09-19_152931_602](https://github.com/user-attachments/assets/957c6c15-1512-41f1-903d-e6dd1cbfa12d)
+![微信图片_2025-09-19_152935_226](https://github.com/user-attachments/assets/eabfab5a-7c66-4369-bf14-cb7b89af5571)
 
+Generate tons of different ways to use the same product with just one click
+![微信图片_2025-09-19_152938_554](https://github.com/user-attachments/assets/22259a82-8463-4147-ba86-5d9f15d655b9)
 
-Generate tons of different ways to use the same product with just one click![微信图片_2025-09-02_204306_603](https://github.com/user-attachments/assets/42a89f21-0738-412c-b5cd-ab2e27821e60)
+Restoring and Upgrading Old Photos
+![微信图片_2025-09-19_152941_496](https://github.com/user-attachments/assets/e137f78a-b42c-46c6-9edc-bd551b541704)
 
-Restoring and Upgrading Old Photos![微信图片_2025-09-02_204310_720](https://github.com/user-attachments/assets/c365e05c-b71c-43ae-a108-51241ac9a38d)
+the first and last frames of the video
+![微信图片_2025-09-19_152944_297](https://github.com/user-attachments/assets/80d2dba3-3428-4019-afe1-ebfcdef52b89)
+![微信图片_2025-09-19_152947_680](https://github.com/user-attachments/assets/34a7f51c-4288-475d-92ba-02a4eb61a142)
 
-the first and last frames of the video![微信图片_2025-09-02_204325_874](https://github.com/user-attachments/assets/861e21a8-f89e-4196-ab75-829c384344d8)
-![微信图片_2025-09-02_204342_514](https://github.com/user-attachments/assets/32fd9341-8fc0-4f0c-8caf-da4dc5665a81)
-
+If you run into any issues or have feature requests, please open an issue
+ or leave a comment. Contributions and feedback are always welcome!
