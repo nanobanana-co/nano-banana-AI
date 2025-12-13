@@ -85,4 +85,3 @@ We’ll be sharing more real-world workflows in future posts. For now, if you’
 
 ---
 
-**Next:** [**Why is it called NanoBanana?**](https://nanobanana.co/blog/why-is-it-called-nano-banana) – Discover how this quirky name became one of Google’s most memorable creative tools.
