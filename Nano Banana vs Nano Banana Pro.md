@@ -20,6 +20,7 @@ If you mainly publish online and move fast, Nano Banana may already cover what y
 
 ---
 
+
 ## What Is Nano Banana?
 **Nano Banana** is an AI image editor designed for quick, natural-language edits that keep faces and identities recognizable.
 
@@ -89,11 +90,7 @@ Most long-term users notice a few patterns:
 
 None of these are deal-breakers for casual creation—but they matter if you ship visuals professionally.
 
-Prompt inspired by a creator on X (formerly Twitter): Yaseen Khan Gul(@YaseenK7212)
 
-[![nanobanana co12 30](https://github.com/user-attachments/assets/5c34fa6c-4790-4c28-835c-e35697b8aa12)](https://x.com/YaseenK7212)
-
----
 
 ## What Nano Banana Pro Improves (What You Actually Notice)
 Nano Banana Pro isn’t about doing “more features.” It’s about fewer failures.
@@ -124,6 +121,8 @@ If Nano Banana is “good enough most of the time,” Pro is “good enough almo
 A simple rule that works:
 > Start with Nano Banana. Upgrade to Nano Banana Pro when consistency becomes the bottleneck.
 
+
+![nanobanana co1228001](https://github.com/user-attachments/assets/6408669c-089d-48e9-8d8c-2f6a30d3ac9b)
 ---
 
 ## The Honest Limits (Both Versions)
@@ -135,7 +134,6 @@ To keep expectations realistic, here are limitations that still show up:
 
 If your work depends heavily on perfect typography or stylized illustration, you may still need a different tool in your stack.
 
-![nanobanana co1228001](https://github.com/user-attachments/assets/6408669c-089d-48e9-8d8c-2f6a30d3ac9b)
 
 
 
@@ -155,9 +153,14 @@ If your work depends heavily on perfect typography or stylized illustration, you
 If you’re on the fence, the decision usually comes down to one question:
 > Do you need “fast results,” or do you need “repeatable results”?
 
+
+Prompt inspired by a creator on X (formerly Twitter): Yaseen Khan Gul(@YaseenK7212)
+
+[![nanobanana co12 30](https://github.com/user-attachments/assets/5c34fa6c-4790-4c28-835c-e35697b8aa12)](https://x.com/YaseenK7212)
+
+
 ---
 
-![nanobanana co1228002](https://github.com/user-attachments/assets/27762e00-4047-49a6-9b72-52b7986828c9)
 
 ## FAQ
 
@@ -175,6 +178,9 @@ It’s worth it if you need consistent outputs you can rely on for professional 
 
 ### Can I use Nano Banana without Photoshop?
 Yes. Nano Banana is built for natural-language editing and can replace many basic Photoshop workflows for everyday image edits.
+
+
+![nanobanana co123015](https://github.com/user-attachments/assets/daa63f00-e8f0-4b3e-bef3-6ed140df79e0)
 
 ---
 
