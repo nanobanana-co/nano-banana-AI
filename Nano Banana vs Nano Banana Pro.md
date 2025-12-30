@@ -73,9 +73,12 @@ Great for:
 
 If you move fast and publish often, Nano Banana is usually the most comfortable choice.
 
-Prompt inspired by a creator on X (formerly Twitter): [huangserva (@servasyy_ai)](https://x.com/servasyy_ai)
+Prompt inspired by a creator on X (formerly Twitter): huangserva (@servasyy_ai)
 
-![nanobanana co1228002](https://github.com/user-attachments/assets/23cc64f8-1bda-4f1b-a87e-08ee648c29d7)
+
+[![nanobanana co1230](https://github.com/user-attachments/assets/b44ca018-03e0-412e-9e08-d29a1b676711)](https://x.com/servasyy_ai)
+
+
 
 ### Where Nano Banana Can Feel Limited
 Most long-term users notice a few patterns:
@@ -86,9 +89,9 @@ Most long-term users notice a few patterns:
 
 None of these are deal-breakers for casual creation—but they matter if you ship visuals professionally.
 
-Prompt inspired by a creator on X (formerly Twitter): [Adam也叫吉米(@Adam38363368936)](https://x.com/Adam38363368936)
+Prompt inspired by a creator on X (formerly Twitter): Yaseen Khan Gul(@YaseenK7212)
 
-![nanobanana co1228001](https://github.com/user-attachments/assets/67152cd7-f625-4bae-a8d8-12b8311d6d56)
+[![nanobanana co12 30](https://github.com/user-attachments/assets/5c34fa6c-4790-4c28-835c-e35697b8aa12)](https://x.com/YaseenK7212)
 
 ---
 
@@ -132,7 +135,9 @@ To keep expectations realistic, here are limitations that still show up:
 
 If your work depends heavily on perfect typography or stylized illustration, you may still need a different tool in your stack.
 
-![nanobanana co1228003](https://github.com/user-attachments/assets/5ea4fc7a-077c-4233-992a-69e6e4d59fc0)
+![nanobanana co1228001](https://github.com/user-attachments/assets/6408669c-089d-48e9-8d8c-2f6a30d3ac9b)
+
+
 
 ---
 
@@ -151,6 +156,8 @@ If you’re on the fence, the decision usually comes down to one question:
 > Do you need “fast results,” or do you need “repeatable results”?
 
 ---
+
+![nanobanana co1228002](https://github.com/user-attachments/assets/27762e00-4047-49a6-9b72-52b7986828c9)
 
 ## FAQ
 
